@@ -40,14 +40,19 @@ class HelloWorld extends StatelessWidget {
 }
 ```
 lúc này bạn thấy class của `HelloWorld` đang bị báo lỗi ! (do bạn bị miss 1 cái @override) !
-<img src="https://github.com/rudeusMSK/Flutter_ChaoXing-xinchao/assets/160387470/42c40d93-f317-4f90-97e6-8bbab512a15d" alt="image" width="500"/>
-</br>
-( Asss dungj cho VsCode còn android mình ko biết :)) nhưng kiểu j nó cũng gợi ý xừ thôi à )
-</br> 
-lúc này bạn thực hiện thao tác sau:
-1. nhấn vào biểu tượng bóng đèn 💡 chọn create missing override như hình:
-<img src="https://github.com/rudeusMSK/Flutter_ChaoXing-xinchao/assets/160387470/8ae50422-e7f0-4910-8d67-bafc8c69e63c" alt="image" width="500"/>
+___
+<p>Asss dungj cho VsCode còn android mình ko biết :)) nhưng kiểu j nó cũng gợi ý xừ thôi à</p>
 
+<div style="text-align: center;">
+  <img src="https://github.com/rudeusMSK/Flutter_ChaoXing-xinchao/assets/160387470/42c40d93-f317-4f90-97e6-8bbab512a15d" alt="image" style="display: block; margin: auto; width: 500px;"/>
+</div>
+
+<p>lúc này bạn thực hiện thao tác sau:
+nhấn vào biểu tượng bóng đèn 💡 chọn create missing override như hình:</p>
+
+<div style="text-align: center;">
+  <img src="https://github.com/rudeusMSK/Flutter_ChaoXing-xinchao/assets/160387470/8ae50422-e7f0-4910-8d67-bafc8c69e63c" alt="image" style="display: block; margin: auto; width: 500px;"/>
+</div>
 
 ___
 
