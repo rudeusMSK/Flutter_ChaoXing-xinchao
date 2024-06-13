@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 // void main() {
 //   runApp(const MainApp());
@@ -34,7 +32,7 @@ class SplitScreenWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // https://docs.flutter.dev/ui/widgets/layout
+      // https://docs.flutter.dev/ui/widgetts/layout
       body: Row(
         children: [
           // https://api.flutter.dev/flutter/widgets/Expanded-class.html
@@ -114,7 +112,7 @@ class ParenWidget extends StatelessWidget {
               border: Border.all(color: Colors.blue, width: 2),
             ),
             padding: const EdgeInsets.all(10),
-            child: MyWidget(false),
+            child: const MyWidget(false),
           ),
           const SizedBox(width: 20),
           Container(
