@@ -167,7 +167,7 @@ class BaitapBuoi1 extends StatelessWidget {
             title: const Text('hê hê'), // tiêu zề 'hê hê'
           ),
           body: const Center(
-            //  child -  dễ hiểu là widget layout á tìm hiểu thêm các layout khác ở đây nha: https://docs.flutter.dev/ui/widgets/layout
+            //  child -  dễ hiểu là widget layout con á tìm hiểu thêm các layout khác ở đây nha: https://docs.flutter.dev/ui/widgets/layout
             child: Text('Hello = xin chèo !')
             ),
         ),
